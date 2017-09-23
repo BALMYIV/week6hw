@@ -1,0 +1,69 @@
+
+
+.button-field {
+	
+}
+
+#gif-input {
+	height: 55px;
+	width: 175px;
+	margin-bottom: 5px;
+	margin-top: 30px;
+	
+}
+
+#new-car {
+	width: 175px;
+	height: 50px;
+	border-radius: 0 0 100% 100%;
+	margin-bottom: 30px;
+	font-family: ariel; 
+	font-weight: 300;
+	font-size: 28px;
+	
+}
+
+.carButton {
+	height: 40px;
+	font-size: 20px;
+	margin: 10px;
+	border-radius: 10px;
+	background-color: white;
+
+}
+
+.carDiv {
+
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+
+.top {
+	height: 170px;
+	background-color: green;
+	
+}
+
+.center {
+	background-color: black;
+
+}
+
+.bottom {
+	
+	background-color: #a9916d;
+}
+
+footer {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 22px;
+	position: fixed;
+	background: white;
+	width: 100%;
+	bottom: 0px;
+	padding: 10px;
+}
